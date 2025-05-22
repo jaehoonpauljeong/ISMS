@@ -1,0 +1,15 @@
+[submodule "i2nsf-security-controller"]
+	path = i2nsf-security-controller
+	url = https://github.com/patrick8link/i2nsf-security-controller.git
+[submodule "i2nsf-dms"]
+	path = i2nsf-dms
+	url = https://github.com/patrick8link/i2nsf-dms.git
+[submodule "i2nsf-nsf"]
+	path = i2nsf-nsf
+	url = https://github.com/patrick8link/i2nsf-nsf.git
+[submodule "i2nsf-analyzer"]
+	path = i2nsf-analyzer
+	url = https://github.com/patrick8link/i2nsf-analyzer.git
+[submodule "i2nsf-yang"]
+	path = i2nsf-yang
+	url = https://github.com/patrick8link/i2nsf-yang.git
